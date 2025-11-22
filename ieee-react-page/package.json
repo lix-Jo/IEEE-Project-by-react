@@ -2,14 +2,14 @@
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lix-Jo.github.io/my-v0-project",  // أضف هذا السطر مع رابط GitHub Pages الخاص بك
+  "homepage": "https://lix-Jo.github.io/my-v0-project",  
   "scripts": {
     "build": "next build",
     "dev": "next dev",
     "lint": "eslint .",
     "start": "next start",
-    "predeploy": "npm run build",  // هذا السكربت سيبني المشروع قبل النشر
-    "deploy": "gh-pages -d out"   // هذا السكربت سيقوم بنشر المشروع على GitHub Pages
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d out"   
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
@@ -24,7 +24,7 @@
     "recharts": "2.15.4",
     "tailwind-merge": "^2.5.5",
     "zod": "3.25.76",
-    "gh-pages": "^3.2.3" // تأكد من أنك قد قمت بتثبيت gh-pages
+    "gh-pages": "^3.2.3"
   },
   "devDependencies": {
     "typescript": "^5",
