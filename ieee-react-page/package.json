@@ -2,7 +2,7 @@
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://v0-ieee-react-page.vercel.app/", 
+  "homepage": "https://lix-Jo.github.io/my-v0-project", 
   "scripts": {
     "build": "next build",                      
     "dev": "next dev",                           
